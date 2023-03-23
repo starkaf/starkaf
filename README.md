@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 # 💫 About Me:
-### Hi there 👋<br>* 👂 My name is Ala Fnayou<br>* 🔭 I’m currently working on extending an Embedded Machine Learning Deployment Interface<br>* 🌱 I’m currently learning C++ and Hardware Design in VHDL.<br>* ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet. Appreciate the evolution!
+### <br>* 👂 My name is Ala Fnayou<br>* 🔭 I’m currently working on extending an Embedded Machine Learning Deployment Interface<br>* 🌱 I’m currently learning C++ and Hardware Design in VHDL.<br>* ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet. Appreciate the evolution!
 
 
 # 💻 Tech Stack:
